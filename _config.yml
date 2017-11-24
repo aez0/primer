@@ -14,7 +14,7 @@ github:
   source:
     branch: "master"
     path: "/"
-  repository_url: "https://github.com/pages-themes/primer"
+  repository_url: "https://github.com/aez0/primer"
   
-title: Jekyll Theme Primer
+title:  Primer
 description: Primer is a Jekyll theme for GitHub Pages
